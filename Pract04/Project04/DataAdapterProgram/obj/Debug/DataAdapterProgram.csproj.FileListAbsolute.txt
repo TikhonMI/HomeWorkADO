@@ -1,0 +1,10 @@
+D:\HomeWorkADO\Pract04\Project04\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe.config
+D:\HomeWorkADO\Pract04\Project04\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe
+D:\HomeWorkADO\Pract04\Project04\DataAdapterProgram\bin\Debug\DataAdapterProgram.pdb
+D:\HomeWorkADO\Pract04\Project04\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.AssemblyReference.cache
+D:\HomeWorkADO\Pract04\Project04\DataAdapterProgram\obj\Debug\DataAdapterProgram.Form1.resources
+D:\HomeWorkADO\Pract04\Project04\DataAdapterProgram\obj\Debug\DataAdapterProgram.Properties.Resources.resources
+D:\HomeWorkADO\Pract04\Project04\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.GenerateResource.cache
+D:\HomeWorkADO\Pract04\Project04\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.CoreCompileInputs.cache
+D:\HomeWorkADO\Pract04\Project04\DataAdapterProgram\obj\Debug\DataAdapterProgram.exe
+D:\HomeWorkADO\Pract04\Project04\DataAdapterProgram\obj\Debug\DataAdapterProgram.pdb

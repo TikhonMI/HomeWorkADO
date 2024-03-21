@@ -1,0 +1,11 @@
+D:\HomeWorkADO\Testing\01Forms\TestingDB\bin\Debug\TestingDB.exe.config
+D:\HomeWorkADO\Testing\01Forms\TestingDB\bin\Debug\TestingDB.exe
+D:\HomeWorkADO\Testing\01Forms\TestingDB\bin\Debug\TestingDB.pdb
+D:\HomeWorkADO\Testing\01Forms\TestingDB\obj\Debug\TestingDB.csproj.AssemblyReference.cache
+D:\HomeWorkADO\Testing\01Forms\TestingDB\obj\Debug\TestingDB.Form1.resources
+D:\HomeWorkADO\Testing\01Forms\TestingDB\obj\Debug\TestingDB.Properties.Resources.resources
+D:\HomeWorkADO\Testing\01Forms\TestingDB\obj\Debug\TestingDB.csproj.GenerateResource.cache
+D:\HomeWorkADO\Testing\01Forms\TestingDB\obj\Debug\TestingDB.csproj.CoreCompileInputs.cache
+D:\HomeWorkADO\Testing\01Forms\TestingDB\obj\Debug\TestingDB.exe
+D:\HomeWorkADO\Testing\01Forms\TestingDB\obj\Debug\TestingDB.pdb
+D:\HomeWorkADO\Testing\01Forms\TestingDB\obj\Debug\TestingDB.Form2.resources

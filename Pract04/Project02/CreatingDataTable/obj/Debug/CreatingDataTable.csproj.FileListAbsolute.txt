@@ -1,0 +1,10 @@
+D:\HomeWorkADO\Pract04\Project02\CreatingDataTable\bin\Debug\CreatingDataTable.exe.config
+D:\HomeWorkADO\Pract04\Project02\CreatingDataTable\bin\Debug\CreatingDataTable.exe
+D:\HomeWorkADO\Pract04\Project02\CreatingDataTable\bin\Debug\CreatingDataTable.pdb
+D:\HomeWorkADO\Pract04\Project02\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.AssemblyReference.cache
+D:\HomeWorkADO\Pract04\Project02\CreatingDataTable\obj\Debug\CreatingDataTable.Form1.resources
+D:\HomeWorkADO\Pract04\Project02\CreatingDataTable\obj\Debug\CreatingDataTable.Properties.Resources.resources
+D:\HomeWorkADO\Pract04\Project02\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.GenerateResource.cache
+D:\HomeWorkADO\Pract04\Project02\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.CoreCompileInputs.cache
+D:\HomeWorkADO\Pract04\Project02\CreatingDataTable\obj\Debug\CreatingDataTable.exe
+D:\HomeWorkADO\Pract04\Project02\CreatingDataTable\obj\Debug\CreatingDataTable.pdb

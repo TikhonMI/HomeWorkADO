@@ -1,0 +1,10 @@
+D:\HomeWorkADO\Pract03\Project04\DBCommand\bin\Debug\DBCommand.exe.config
+D:\HomeWorkADO\Pract03\Project04\DBCommand\bin\Debug\DBCommand.exe
+D:\HomeWorkADO\Pract03\Project04\DBCommand\bin\Debug\DBCommand.pdb
+D:\HomeWorkADO\Pract03\Project04\DBCommand\obj\Debug\DBCommand.csproj.AssemblyReference.cache
+D:\HomeWorkADO\Pract03\Project04\DBCommand\obj\Debug\DBCommand.Form1.resources
+D:\HomeWorkADO\Pract03\Project04\DBCommand\obj\Debug\DBCommand.Properties.Resources.resources
+D:\HomeWorkADO\Pract03\Project04\DBCommand\obj\Debug\DBCommand.csproj.GenerateResource.cache
+D:\HomeWorkADO\Pract03\Project04\DBCommand\obj\Debug\DBCommand.csproj.CoreCompileInputs.cache
+D:\HomeWorkADO\Pract03\Project04\DBCommand\obj\Debug\DBCommand.exe
+D:\HomeWorkADO\Pract03\Project04\DBCommand\obj\Debug\DBCommand.pdb
